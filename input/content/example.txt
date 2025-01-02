@@ -1,0 +1,11 @@
+Same thing as ../content.txt, but it will randomly take files from this directory and post the content so you can type multiple things. 
+
+For example:
+
+Hi!!
+
+How are you!!
+
+If you type that line 5 to 7 will be posted.
+
+The post title will be the file's name, for this message the post title will be "example" because 
